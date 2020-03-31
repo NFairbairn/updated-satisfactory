@@ -13,4 +13,6 @@ class About extends Component {
     }
 }
 
+// testing adjustments to push to master
+
 export default About;
